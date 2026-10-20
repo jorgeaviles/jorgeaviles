@@ -1,8 +1,8 @@
 # Jorge Aviles
 
-**Data Systems · Applied Research · Technology Innovation**
+**Business Analysis · Data Platforms · Applied Research · Technology Innovation**
 
-I connect business requirements, data, and practical technology to improve how teams access information, coordinate work, and make decisions. My experience spans legal services, banking, and academic research, combining business analysis with hands-on engineering and analytical methods.
+I connect business needs, data, and practical technology to improve how teams access information, coordinate work, and make decisions. My experience combines business analysis, hands-on development, and applied research across legal services, banking, and academia.
 
 ### From business needs to operational use
 
@@ -12,24 +12,25 @@ This work has expanded the audit department's capabilities beyond spreadsheet-ba
 
 My contribution spans requirements and prioritization, data engineering, database design, analytical queries, stored procedures and functions, reporting, and application development. It also includes research and testing of machine-learning scoring approaches and more recent LLM-based tools and document retrieval.
 
-### Banking and business systems
+## Career context
 
-Earlier roles at **Santander Bank** spanned data quality, database analysis, and change management. My experience includes banking technology, CRM and marketing data systems, project and program coordination, reporting, analytics, and automation. That background shapes how I approach information quality, stakeholder needs, and improvements to established systems.
+My Santander experience spans enterprise-application data quality, CRM and marketing databases and pipelines, and business analysis in the Executive Project Management Office supporting capital technology projects. Earlier research-assistant work at CENTRUM PUCP connected quantitative methods with business questions, academic administration, and accreditation coordination.
 
-### Applied research
+## Capabilities and tools
 
-As a research assistant at **CENTRUM Católica Graduate Business School, Pontificia Universidad Católica del Perú (PUCP)** in Lima (2012–2014), I supported faculty research on cattle-ranch profitability forecasting using machine learning, consumer spending habits, choice-based conjoint analysis, and price modeling. I also supported academic administration and accreditation coordination, including VBA-based automation.
+- **Business analysis:** stakeholder consultation, requirements analysis, prioritization, feedback, and translating operational needs into usable systems.
+- **Data and analytics:** SQL, Python, R, Jupyter, PySpark, Synapse Analytics, SQL Server, SSMS, SSRS, Informatica, SAS, Power BI, DAX, and statistical and machine-learning methods.
+- **Applications and automation:** C#, .NET, ASP.NET Core, Blazor, Cosmos DB, Power Apps, Microsoft Project, and VBA.
+- **Applied AI:** Azure AI Foundry, LLM integrations, retrieval-augmented generation, and Model Context Protocol.
 
-**Selected contribution:** Acknowledged as *J. Avilés* for research assistance in Anand N. Asthana's [*Profitability Prediction in Cattle Ranches in Latin America: A Machine Learning Approach*](https://centrumthink.pucp.edu.pe/articulosacademicos/profitability-prediction-in-catlle-ranches-in-latin-america-a-machine-learning-approach/), *Global Veterinaria*, 13(4), 473–495 (2014).
+## Working approach
 
-### Tools and methods
+Start with the people using the result and the decision or workflow it needs to support. Examine data quality and assumptions, make tradeoffs explicit, and build behavior that can be tested and explained. Handle sensitive information carefully and favor maintainable solutions that can improve with feedback.
 
-- **Data and analytics:** SQL, Python, Jupyter, PySpark, Azure Synapse Analytics, Cosmos DB, Power BI, DAX, and statistical and machine-learning methods.
-- **Applications and automation:** C#, .NET, ASP.NET Core, Blazor, Power Apps, and VBA.
-- **Applied AI:** Azure AI Foundry, LLM integrations, retrieval-augmented generation (RAG), and Model Context Protocol (MCP).
+## Research and connections
 
-### How I work
+At CENTRUM Católica Graduate Business School, PUCP, I supported faculty research on cattle-ranch profitability forecasting, consumer spending, choice-based conjoint analysis, and pricing. I am acknowledged as *J. Avilés* for research assistance in Anand N. Asthana's [*Profitability Prediction in Cattle Ranches in Latin America: A Machine Learning Approach*](https://centrumthink.pucp.edu.pe/articulosacademicos/profitability-prediction-in-catlle-ranches-in-latin-america-a-machine-learning-approach/) (2014).
 
-Start with the problem and the people using the result. Examine the data and assumptions, make the tradeoffs explicit, and develop solutions that can be tested, explained, and maintained.
+[LinkedIn](https://www.linkedin.com/in/jraviles/)
 
-Much of my professional work lives in private repositories. Public repositories here also reflect my interests in developer tools, self-hosted systems, and audio technology; forks retain their original attribution.
+Outside professional work, I enjoy audio technology and self-hosted systems. Public forks here also reflect tools I explore; their upstream functionality and authorship remain attributed to their original projects.
