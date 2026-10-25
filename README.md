@@ -1,4 +1,4 @@
-# Jorge Aviles
+# Jorge Avilés
 
 **Business Analysis · Data Engineering · Applied Research · Application Development**
 
@@ -14,7 +14,7 @@ My work progressed from Python and Jupyter analysis to reusable Python/PySpark t
 
 I developed the Audit Portal with ASP.NET Core and Blazor Interactive Server to connect analytical information, documents, audit tracking, and authorized departmental workflows. The case study discusses requirements, interface decisions, server-side services, Entra ID authentication and authorization, and the limits of document-informed AI assistance.
 
-At the Committee for Public Counsel Services, I am the sole hands-on developer of these notebooks, data platform, and application. Departmental colleagues inform requirements and analytical interpretation; university consultation informed the earlier modeling work, and IT colleagues helped establish source extracts and infrastructure access. These public accounts explain the work while professional source code and operational data remain private.
+I am an **Auditor Data Analyst** at the Committee for Public Counsel Services and the sole hands-on developer of these notebooks, data platform, and application. Departmental colleagues inform requirements and analytical interpretation; university consultation informed the earlier modeling work, and IT colleagues helped establish source extracts and infrastructure access. These public accounts explain the work while professional source code and operational data remain private.
 
 ## Capabilities and tools
 
