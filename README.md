@@ -1,36 +1,40 @@
-# Jorge Aviles
+# Jorge Avilés
 
-**Business Analysis · Data Platforms · Applied Research · Technology Innovation**
+**Senior Auditor Data Analyst — Committee for Public Counsel Services**
 
-I connect business needs, data, and practical technology to improve how teams access information, coordinate work, and make decisions. My experience combines business analysis, hands-on development, and applied research across legal services, banking, and academia.
+**Business Analysis · Data Engineering · Applied Research · Application Development**
 
-### From business needs to operational use
+I connect operational questions, analytical information, and application development. My experience spans legal services, banking, and academia: understanding requirements, examining data and assumptions, and building systems people can use. [Professional portfolio](https://jorgeaviles.net/)
 
-At the Committee for Public Counsel Services, my work has progressed from **Python and Jupyter-based analysis and ETL** to **several years developing an Azure Synapse data warehouse**. More recently, I began building a **Blazor application** to bring data access and operational workflows into a shared interface.
+## Selected professional work
 
-This work has expanded the audit department's capabilities beyond spreadsheet-based information sharing and reliance on legacy reporting. It supports data access, analytics, dashboards, and the department's broader work on project coordination, resource tracking, follow-ups, and automation. I work with attorney stakeholders to understand requirements and decide what to build next, and partnered with IT's database analyst to establish scheduled production-data extracts.
+### [Designing an audit-tracking workspace](https://jorgeaviles.net/work/analytical-applications/)
 
-My contribution spans requirements and prioritization, data engineering, database design, analytical queries, stored procedures and functions, reporting, and application development. It also includes research and testing of machine-learning scoring approaches and more recent LLM-based tools and document retrieval.
+I developed the Audit Portal with ASP.NET Core and Blazor Interactive Server to connect analytical information, documents, audit tracking, and authorized departmental workflows. The case study discusses requirements, interface decisions, server-side services, Entra ID authentication and authorization, and the limits of document-informed AI assistance.
 
-## Career context
+### [Building an analytical data platform](https://jorgeaviles.net/work/analytical-data-platforms/)
 
-My Santander experience spans enterprise-application data quality, CRM and marketing databases and pipelines, and business analysis in the Executive Project Management Office supporting capital technology projects. Earlier research-assistant work at CENTRUM PUCP connected quantitative methods with business questions, academic administration, and accreditation coordination.
+My work progressed from Python and Jupyter analysis to reusable Python/PySpark transformations, prepared Parquet datasets in Azure Data Lake Storage Gen2, and Synapse serverless SQL access. The case study explains how scheduled legacy extracts become reusable analytical information, with attention to data quality, grain, and access contracts.
+
+### [Developing machine-learning models for audit prioritization](https://jorgeaviles.net/work/machine-learning-audit-prioritization/)
+
+I implemented supervised-learning pipelines connecting historical random-audit outcomes with bill-level feature engineering, model comparisons, grouped validation, probability calibration, time-based backtesting, scoring, and drift diagnostics. The work evaluates whether predictive scores could support human review. Modeling remains experimental; integration into Audit Portal workflows is proposed, and no approved production decision model or numerical performance result is claimed.
+
+At the Committee for Public Counsel Services, I am the sole hands-on developer of the analytical notebooks, data platform, modeling pipelines, and Audit Portal. Departmental colleagues inform requirements and analytical interpretation; university consultation informed the earlier modeling work, and IT colleagues helped establish source extracts and infrastructure access. These public accounts explain the work while professional source code and operational data remain private.
 
 ## Capabilities and tools
 
-- **Business analysis:** stakeholder consultation, requirements analysis, prioritization, feedback, and translating operational needs into usable systems.
-- **Data and analytics:** SQL, Python, R, Jupyter, PySpark, Synapse Analytics, SQL Server, SSMS, SSRS, Informatica, SAS, Power BI, DAX, and statistical and machine-learning methods.
-- **Applications and automation:** C#, .NET, ASP.NET Core, Blazor, Cosmos DB, Power Apps, Microsoft Project, and VBA.
-- **Applied AI:** Azure AI Foundry, LLM integrations, retrieval-augmented generation, and Model Context Protocol.
+- **Business analysis and data engineering:** stakeholder consultation, requirements, SQL, Python, PySpark, Jupyter, data-quality checks, ADLS Gen2, Parquet, and Synapse serverless SQL.
+- **Application development:** C#, ASP.NET Core, Blazor Interactive Server, Azure App Service, Cosmos DB, and server-side authentication and authorization.
+- **Research and analytics:** quantitative investigation, statistical and machine-learning experiments, R, and reporting; broader experience with SQL Server, SSRS, Informatica, SAS, Power BI/DAX, Power Apps, and VBA.
+- **Applied AI:** Azure Foundry, LLM integrations, and retrieval-augmented generation, with evaluation and human review. Modeling experiments are distinct from validated production predictors.
 
-## Working approach
+## Career and research context
 
-Start with the people using the result and the decision or workflow it needs to support. Examine data quality and assumptions, make tradeoffs explicit, and build behavior that can be tested and explained. Handle sensitive information carefully and favor maintainable solutions that can improve with feedback.
+Earlier Santander roles connected enterprise-application data quality, CRM and marketing information, and business analysis for capital technology projects. At CENTRUM PUCP, I supported faculty research on profitability forecasting, consumer choice, conjoint analysis, and pricing. Anand N. Asthana's 2014 cattle-ranch profitability paper acknowledges me as **J. Avilés** for research assistance; Asthana is the author.
 
-## Research and connections
+## Links
 
-At CENTRUM Católica Graduate Business School, PUCP, I supported faculty research on cattle-ranch profitability forecasting, consumer spending, choice-based conjoint analysis, and pricing. I am acknowledged as *J. Avilés* for research assistance in Anand N. Asthana's [*Profitability Prediction in Cattle Ranches in Latin America: A Machine Learning Approach*](https://centrumthink.pucp.edu.pe/articulosacademicos/profitability-prediction-in-catlle-ranches-in-latin-america-a-machine-learning-approach/) (2014).
+[LinkedIn](https://www.linkedin.com/in/jraviles/) · [Research citation and sources](https://jorgeaviles.net/research/)
 
-[LinkedIn](https://www.linkedin.com/in/jraviles/)
-
-Outside professional work, I enjoy audio technology and self-hosted systems. Public forks here also reflect tools I explore; their upstream functionality and authorship remain attributed to their original projects.
+Public forks also reflect tools I explore, including audio technology and self-hosted systems. Their upstream functionality and authorship remain attributed to the original projects.
