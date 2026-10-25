@@ -1,20 +1,26 @@
 # Jorge Avilés
 
+**Senior Auditor Data Analyst — Committee for Public Counsel Services**
+
 **Business Analysis · Data Engineering · Applied Research · Application Development**
 
 I connect operational questions, analytical information, and application development. My experience spans legal services, banking, and academia: understanding requirements, examining data and assumptions, and building systems people can use. [Professional portfolio](https://jorgeaviles.net/)
 
 ## Selected professional work
 
-### [Building an analytical data platform](https://jorgeaviles.net/work/analytical-data-platforms/)
-
-My work progressed from Python and Jupyter analysis to reusable Python/PySpark transformations, prepared Parquet datasets in Azure Data Lake Storage Gen2, and Synapse serverless SQL access. The case study explains how scheduled legacy extracts become reusable analytical information, with attention to data quality, grain, and access contracts.
-
 ### [Designing an audit-tracking workspace](https://jorgeaviles.net/work/analytical-applications/)
 
 I developed the Audit Portal with ASP.NET Core and Blazor Interactive Server to connect analytical information, documents, audit tracking, and authorized departmental workflows. The case study discusses requirements, interface decisions, server-side services, Entra ID authentication and authorization, and the limits of document-informed AI assistance.
 
-I am an **Auditor Data Analyst** at the Committee for Public Counsel Services and the sole hands-on developer of these notebooks, data platform, and application. Departmental colleagues inform requirements and analytical interpretation; university consultation informed the earlier modeling work, and IT colleagues helped establish source extracts and infrastructure access. These public accounts explain the work while professional source code and operational data remain private.
+### [Building an analytical data platform](https://jorgeaviles.net/work/analytical-data-platforms/)
+
+My work progressed from Python and Jupyter analysis to reusable Python/PySpark transformations, prepared Parquet datasets in Azure Data Lake Storage Gen2, and Synapse serverless SQL access. The case study explains how scheduled legacy extracts become reusable analytical information, with attention to data quality, grain, and access contracts.
+
+### [Developing machine-learning models for audit prioritization](https://jorgeaviles.net/work/machine-learning-audit-prioritization/)
+
+I implemented supervised-learning pipelines connecting historical random-audit outcomes with bill-level feature engineering, model comparisons, grouped validation, probability calibration, time-based backtesting, scoring, and drift diagnostics. The work evaluates whether predictive scores could support human review. Modeling remains experimental; integration into Audit Portal workflows is proposed, and no approved production decision model or numerical performance result is claimed.
+
+At the Committee for Public Counsel Services, I am the sole hands-on developer of the analytical notebooks, data platform, modeling pipelines, and Audit Portal. Departmental colleagues inform requirements and analytical interpretation; university consultation informed the earlier modeling work, and IT colleagues helped establish source extracts and infrastructure access. These public accounts explain the work while professional source code and operational data remain private.
 
 ## Capabilities and tools
 
